@@ -12,3 +12,7 @@ print(interest_rate)
 print(type(name))
 print(type(interest_rate))
 print(type(isSingle))
+
+print('Hello Guys'+ ' ' + 'How are you?')
+text = f"Kodom Ali age: {age} living in {district}"
+print(text)
