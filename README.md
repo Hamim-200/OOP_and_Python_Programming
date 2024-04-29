@@ -3,10 +3,20 @@
 * Module_1   
         <details>
            <summary>Introduction to Python</summary>
-                <ol>Variable</ol>
-                <ol>Input,Output & Type Casting</ol>
-                <ol>Operator</ol>
+                <ol>1.Variable</ol>
+                <ol>2.Input,Output & Type Casting</ol>
+                <ol>3.Operator</ol>
+                <ol>4.Condetion</ol>
+                <ol>5.Loop</ol>
          </details>
-* Module_2 : .........
+* Module_2 
+        <details>
+           <summary>Basic Of Python</summary>
+                <ol>1.</ol>
+                <ol>2.</ol>
+                <ol>3.</ol>
+                <ol>4.</ol>
+                <ol>5.</ol>
+         </details>
 * Module_3 : .........
 
