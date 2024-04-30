@@ -12,9 +12,9 @@
 * Module_2 
         <details>
            <summary>Basic Of Python</summary>
-                <ol>1.</ol>
-                <ol>2.</ol>
-                <ol>3.</ol>
+                <ol>1. Function, Args, kargs</ol>
+                <ol>2. Scope</ol>
+                <ol>3. Built In Function and modules</ol>
                 <ol>4.</ol>
                 <ol>5.</ol>
          </details>
