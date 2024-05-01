@@ -1,3 +1,1 @@
-def full_name(first,last):
-#     name = f'{first} {last}'
-#     return name
+print(numbers[1:7:2])
