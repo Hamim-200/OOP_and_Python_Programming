@@ -16,8 +16,19 @@
                 <ol>2. Scope</ol>
                 <ol>3. Built In Function and modules</ol>
                 <ol>4. List , List Method & list comprehension</ol>
-                <ol>5.</ol>
          </details>
-* Module_3 : .........
+* Module_3 : 
+        <details>
+           <summary>Basic Of Python 02</summary>
+                <ol>1. String</ol>
+                <ol>2. Tuple</ol>
+                <ol>3. Set</ol>
+                <ol>4. Dictionary</ol>
+                <ol>4. Built in modules</ol>
+         </details>
+
+
+
+
 
 * YOUTUBE VIDEO BY PROGRAMMING HERO
