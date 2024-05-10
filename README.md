@@ -24,7 +24,9 @@
                 <ol>2. Tuple</ol>
                 <ol>3. Set</ol>
                 <ol>4. Dictionary</ol>
-                <ol>4. Built in modules</ol>
+                <ol>5. Built in modules</ol>
+                <ol>6.Exception </ol>
+                <ol>6.File </ol>
          </details>
 
 
