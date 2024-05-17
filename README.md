@@ -37,7 +37,14 @@
         <details>
            <summary>OOP And OBJECT</summary>
                 <ol>1. Class & Object</ol>
-                <ol>1. Method</ol>
+                <ol>2. Method</ol>
+                <ol>3. Constractor</ol>
+                <ol>4. Simple Bank Calculation and many more appliction</ol>
+         </details>         
+* Module_6 : 
+        <details>
+           <summary>Python OOP</summary>
+                <ol>1. ....UPCOMING...</ol>
          </details>         
 
 
