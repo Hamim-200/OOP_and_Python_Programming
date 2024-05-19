@@ -44,7 +44,8 @@
 * Module_6 : 
         <details>
            <summary>Python OOP</summary>
-                <ol>1. ....UPCOMING...</ol>
+                <ol>1. Class and Object</ol>
+                <ol>2. Inheritance</ol>
          </details>         
 
 
