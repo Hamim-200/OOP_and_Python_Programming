@@ -46,6 +46,9 @@
            <summary>Python OOP</summary>
                 <ol>1. Class and Object</ol>
                 <ol>2. Inheritance</ol>
+                <ol>3. Encapsulation</ol>
+                <ol>4. Abstraction</ol>
+                <ol>5. Polymorphism</ol>
          </details>         
 
 
