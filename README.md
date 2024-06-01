@@ -50,6 +50,13 @@
                 <ol>4. Abstraction</ol>
                 <ol>5. Polymorphism</ol>
          </details>         
+* Module_7 : 
+        <details>
+           <summary>Python OOP</summary>
+                <ol>1.Overload And Override</ol>
+                <ol>2. Static Method,Attribute,Class method</ol>
+                
+         </details>         
 
 
 
