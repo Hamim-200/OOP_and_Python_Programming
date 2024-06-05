@@ -55,6 +55,17 @@
            <summary>Python OOP</summary>
                 <ol>1.Overload And Override</ol>
                 <ol>2. Static Method,Attribute,Class method</ol>
+                <ol>3. Getter and setter</ol>
+                <ol>4. Decarator</ol>
+                <ol>5. UML and Design Pattern</ol>
+                
+         </details>    
+* Module_8 : 
+        <details>
+           <summary>Python Midterm Exam</summary>
+                <ol>[Question](https://docs.google.com/document/d/1YlLMdOYCEjYqoXmxNPrmW_47c8GqoqjNtV8fGj-FlPw/edit)</ol>
+
+                <ol>[HINTS](https://docs.google.com/document/d/119siozpvSX0Pr9tjgAVYyhs5JIR-SBUxlCJ6-77VpK4/edit)</ol>
                 
          </details>         
 
